@@ -1,0 +1,8 @@
+#debugbar {float: left; width: 500px;}
+#debugbar TABLE {width:100%;border-spacing: 0; }
+#debugbar TABLE TD.heading {background: #00F;color: #fff;}
+#debugbar TABLE TD.heading .label {padding:5px;}
+#debugbar TABLE TH {background: #D8E9F6;padding: 5px 2px;text-align: left;}
+#debugbar TABLE TD TABLE {padding: 10px;border:1px solid #00F;background: #fff;}
+#debugbar #timebar {width:200px;}
+#debugbar .bar {height: 5px; background: #F37619;}

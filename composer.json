@@ -1,0 +1,14 @@
+{
+  "name" : "inlinecss/inlinecss",
+  "version" : "1.0",
+  "description" : "Library for translate CSS to inline version",
+  "keywords" : "CSS cssinliner css2inline csstoinline css3toinline",
+  "license" : "GPL-3.0+",
+  "authors" : [
+    {
+      "name" : "Martin Kreizl",
+      "email" : "kreizl@netsimple.cz",
+      "role" : "Developer"
+    }
+  ]
+}

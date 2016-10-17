@@ -1,0 +1,20 @@
+.blue {color:blue;}
+.orange {color:orange;}
+.red {color:red;}
+.left {float:left;}
+.right {float:right;}
+.box {box-sizing:border-box;}
+.full {width:100%;}
+.half {width:50%;}
+.sub {color:orange;}
+BODY {height:750px;}
+#menu {background:#666;}
+#menu UL {margin:0;padding:0;}
+#menu UL LI {float:left;}
+#menu UL LI A {float:left; color:#fff; padding:10px 20px; text-decoration:none;}
+#menu UL LI:last-child A, #menu UL LI:first-child A {background:blue;}
+#content {font-size:15px;}
+#content .col {height:100%; background:orange; text-align:center;}
+#content .col:nth-child(1) {background:#E7E7E7;}
+#content .col:nth-child(2) {background:#999;}
+#content .col.left P[data$=sen] {background:red;}
